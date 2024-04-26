@@ -1,0 +1,15 @@
+# 本文件仅为示例
+
+# python
+tensorflow >= 2.1
+torch >= 1.2
+
+# apt-get
+vim
+jq
+python-dev
+
+# 其他依赖
+transformers
+pip install transformers
+
